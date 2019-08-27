@@ -644,7 +644,7 @@ input, select, textarea {
 		}
 	
 /* work */
-	@media screen and (max-width: 736px) {
+	@media screen and (min-width: 510px) {
 		#work p {
 			margin: 0 0 1.3rem 0;
 			font-size: 0.85rem;
@@ -654,11 +654,11 @@ input, select, textarea {
 			color:#ccc;
 		}
 	}
-	@media screen and (max-width: 480px) {
+	@media screen and (max-width: 510px) {
 		#work p {
 			margin: 0 0 1.3rem 0;
 			font-size: 0.85rem;
-			padding:0 3rem 0 3rem;
+			padding:0 2.5rem 0 2.5rem;
 			font-family: Microsoft JhengHei, STHeiti Light, [STXihei] SimHei;
 			text-align: center;
 			color:#ccc;
