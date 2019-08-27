@@ -643,7 +643,15 @@ input, select, textarea {
 			font-size: 0.9rem;
 		}
 	
-		
+/* work */
+		#work p {
+			margin: 0 0 1.3rem 0;
+			font-size: 0.72rem;
+			padding:0 6rem 0 6rem;
+			font-family: Microsoft JhengHei, STHeiti Light, [STXihei] SimHei;
+			text-align: center;
+			color:#ccc;
+		}		
 
 /* Box */
 
