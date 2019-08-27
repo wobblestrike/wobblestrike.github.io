@@ -646,12 +646,12 @@ input, select, textarea {
 /* work */
 		#work p {
 			margin: 0 0 1.3rem 0;
-			font-size: 0.72rem;
+			font-size: 0.85rem;
 			padding:0 6rem 0 6rem;
 			font-family: Microsoft JhengHei, STHeiti Light, [STXihei] SimHei;
 			text-align: center;
 			color:#ccc;
-		}		
+		}
 
 /* Box */
 
@@ -1418,8 +1418,9 @@ input, select, textarea {
 			line-height: 5.5rem;
 			border: solid 1px #ffffff;
 			border-radius: 100%;
-			background-image: url(../../images/WBS_LOGO_border0.png); 
-			background-size: 100% 100%;"
+			background-image: url(../../images/WBS_LOGO_border0.png);
+            background-size: 100% 100%;
+
 		}
 
 			#header .logo .icon:before {
