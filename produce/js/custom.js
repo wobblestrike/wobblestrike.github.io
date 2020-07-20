@@ -292,6 +292,30 @@ $(document).ready(function()
 					poster:"files/beats/Whip/Whip_cover.png",
 					linkage:"https://soundcloud.com/z_chuan/illya-20-whip-zchuan-remakefree-download-beats"
 				},
+				{
+					title:"Z.ChUAN",
+					artist:"",
+					album:"Interlude",
+					mp3:"files/beats/Interlude/Interlude_audio.mp3",
+					poster:"files/beats/Interlude/Interlude_cover.png",
+					linkage:""
+				},
+				{
+					title:"Z.ChUAN",
+					artist:"",
+					album:"Blue City",
+					mp3:"files/beats/Blue_city/Blue_city_audio.mp3",
+					poster:"files/beats/Blue_city/Blue_city_cover.png",
+					linkage:""
+				},
+				{
+					title:"Z.ChUAN",
+					artist:"",
+					album:"WYA",
+					mp3:"files/beats/WYA/WYA_audio.mp3",
+					poster:"files/beats/WYA/WYA_cover.png",
+					linkage:""
+				},
 			];
 
 			var options =
